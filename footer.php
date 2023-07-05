@@ -234,23 +234,9 @@
 
                     var ctrlheadfooreset2 = 0;
 
-                    var headinfo =  '<table class="antet">'+
+                    var headinfo =  '';
 
-                                    '<tr>'+
-
-                                    '<td style="width:50%;"><img src="http://www.nakliye.com.tr/wp-content/uploads/2018/03/logo.png" /></td>'+
-
-                                    '<td style="width:50%;padding-left: 10px;"><span style="color: #467080;"><b style="color: #467080;">MERT DENIZ NAKLIYATI GEMI ACENTELIGI</b><br>MERT MARITIME TRANSPORTTATION SHIP AGENCY</span><br>Alsancak Mah. Atatürk Caddesi No: 378/31-32 Konak İZMİR 35220<br>Tel: +90 (232) 422 72 03 - 04 Fax: +90 (232) 463 08 30<br>www.nakliye.com.tr<br>e-mail: nakliye@nakliye.com.tr</td>'+
-
-                                    '</tr>'+
-
-                                    '</table>'+
-
-                                    '<div class="hideShow" style="border-bottom: 3px solid #d26a02;width: 100%;margin: 0px auto;margin-top:5px;"></div>'+
-
-                                    '<div class="hideShow" style="border-bottom: 3px solid #467080;width: 90%;margin: 0px auto;margin-top:5px;"></div>';
-
-                    var fooinfo = '<div class="alt_bilgi">OUR BANK AS FOLLOW<br><b>BANK NAME : T.C. ZIRAAT BANKASI A.S.<br>BRANCH : 1523-KIBRIS SEHITLERI / IZMIR SUBESI<br>ADDRESS:  ALSANCAK MAHALLESI KIBRIS SEHITLERI CADDESI NO.136/1A 35220 KONAK IZMIR<br>A/C NUMBER: 89123617-5002<br>IBAN NO: TR41 0001 0015 2389 1236 1750 02<br>SWIFT CODE: TCZBTR2A<br>BENEFICIARY NAME : CETIN ZORER ORT. MERT DENIZ NAKLIYATI GEMI ACENTELIGI</b><br><br>MERT SHIPPING / IZMIR</div>';
+                    var fooinfo = '';
 
                     var dataVars = {
 
