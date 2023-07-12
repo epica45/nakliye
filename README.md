@@ -1,4 +1,4 @@
 # nakliye
 Nakliye
 Codeigniter Project
-Hesaplama, Kaydetme, Silme işlemlerinin çalıştığı controller dosyası 
+Hesaplama, Kaydetme, Silme işlemlerinin çalıştığı proje
